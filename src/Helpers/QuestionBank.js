@@ -1,0 +1,50 @@
+export   const Questions = [
+    {
+        prompt: 'HTML stand for _______________________',
+        optionA: 'hypertext markup language',
+        optionB:'hyperyech markup language',
+        optionC:  'hypertext markep language',
+        optionD:  'hypertext markup languge',
+        answer: "A",
+    },
+    {
+        prompt: 'CSS stand for _______________________',
+        optionA: 'Cascading Style Sheet',
+        optionB: 'Cascadeng Style Shet',
+        optionC:  'Cascading Styles Sheets',
+        optionD:   'Cascadings Styls Sheet',
+        answer: "optionA",
+    },
+    {
+        prompt: 'JS stand for _______________________',
+        optionA: 'Javascripta',
+        optionB: 'Javacript',
+        optionC:  'Javascript',
+        optionD:   'Javascriptes',
+        answer : "optionC",
+    },
+    {
+        prompt: 'CPU stand for _______________________',
+        optionA: 'Centrals Processing Units',
+        optionB:'Central Processing Unit',
+        optionC: 'Central Procesing Unit',
+        optionD: 'Cantral Processing Units',
+        answer: "optionB",
+    },
+    {
+        prompt: 'SSD stand for _______________________',
+        optionA: 'Solids state drivis', 
+        optionB:'Solids stete drives', 
+        optionC:'Solid states drive',
+        optionD: 'Solid state drives',
+        answer: "optionC",
+    },
+    {
+        prompt: 'ROM stand for _______________________',
+        optionA:'read-only memory',
+        optionB: 'reads-only memoory', 
+        optionC:'read-onley memory', 
+        optionD: 'reads-only mamory',
+        answer: "optionA",
+    }
+]
